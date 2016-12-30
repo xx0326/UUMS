@@ -18,10 +18,7 @@ public class StaffDao {
 	private JdbcTemplate jdbcTemplate;
 	
 	/**
-	 * 查询对象转换POJO对象
-	 * @param rs ResultSet查询对象
-	 * @return 目标POJO
-	 * @throws SQLException
+	 * RS瀵硅薄瑁呴厤
 	 */
 	private Staff deviceMapRow(ResultSet rs)throws SQLException{
 		Staff staff = new Staff();
