@@ -1,5 +1,5 @@
 # UUMS
-It's a project with `Eclipse JEE` `IDE`.<br/>
+It's a project with `Eclipse JEE` IDE.<br/>
 这是用`Eclips jee`开发的。<br/>
 After the project checked out,You may need `Build Path`(include `JRE``Tomcat`).<br/>
 项目取出后要注意Build Path才能正确显示。包括：JRE，Tomcat。<br/>
